@@ -1,10 +1,10 @@
 {
   "codeclone_version": "2.1.0a1",
   "files_copied": 14,
-  "files_deleted": 14,
-  "source_commit": "0dc553d",
-  "source_commit_full": "0dc553dbdf6f35223e9e03253e79227b7ea3d022",
-  "source_dirty": true,
+  "files_deleted": 15,
+  "source_commit": "0401ccd",
+  "source_commit_full": "0401ccd65ce06735da15e0a2d811c309f7609372",
+  "source_dirty": false,
   "source_paths": [
     "plugins/codeclone",
     "scripts/integration_dist/README.codex.root.md",
@@ -12,6 +12,6 @@
     "scripts/integration_dist/marketplace.codex.json"
   ],
   "source_repository": "orenlab/codeclone",
-  "synced_at_utc": "2026-06-03T13:33:38+00:00",
+  "synced_at_utc": "2026-06-12T17:30:38+00:00",
   "target": "codex"
 }

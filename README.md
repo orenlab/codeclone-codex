@@ -6,11 +6,11 @@ synced from [orenlab/codeclone](https://github.com/orenlab/codeclone); see
 
 ## Layout
 
-| Path                               | Role                                                                  |
-|------------------------------------|-----------------------------------------------------------------------|
+| Path | Role |
+|------|------|
 | `.agents/plugins/marketplace.json` | Codex marketplace catalog (`marketplace add orenlab/codeclone-codex`) |
-| `plugins/codeclone/`               | Plugin root (manifest, skills, MCP launcher, assets)                  |
-| `plugins/codeclone/README.md`      | **Full** install and usage guide for the plugin tree                  |
+| `plugins/codeclone/` | Plugin root (manifest, skills, MCP launcher, assets) |
+| `plugins/codeclone/README.md` | **Full** install and usage guide for the plugin tree |
 
 The file you are reading is the **repository** README for GitHub and browsing.
 Codex loads the plugin from `./plugins/codeclone`; do not move the plugin to the
@@ -29,6 +29,6 @@ can resolve `codeclone-mcp`. Step-by-step setup, skills, and boundaries:
 
 ## Documentation
 
-- [Codex plugin guide](https://orenlab.github.io/codeclone/codex-plugin/)
-- [MCP interface](https://orenlab.github.io/codeclone/mcp/)
+- [Codex plugin guide](https://orenlab.github.io/codeclone/guide/integrations/codex/setup/)
+- [MCP interface](https://orenlab.github.io/codeclone/guide/mcp/)
 - [Publishing / sync](https://github.com/orenlab/codeclone/blob/main/docs/publishing.md)
